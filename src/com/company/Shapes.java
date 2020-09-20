@@ -19,6 +19,8 @@ public class Shapes {
         mSquare.setWidth(8);
         mCircle.setRadius(6);
 
+        // I AM BORED AAAAAAAA
+
         mDrawer.draw();
         sDrawer.draw();
     }
