@@ -29,6 +29,8 @@ public class Square extends Shape{
         System.out.println("Square area: " + length*width);
     }
 
+    //test update
+
     private int length;
     private int width;
 }
